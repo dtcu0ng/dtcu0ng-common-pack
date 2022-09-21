@@ -2,7 +2,7 @@
   "name": "dtcu0ng-common-pack",
   "displayName": "dtcu0ng's common Extension Pack",
   "description": "just for me",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "dtcu0ng",
   "engines": {
     "vscode": "^1.71.0"
