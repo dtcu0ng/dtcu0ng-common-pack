@@ -3,8 +3,13 @@
   "displayName": "dtcu0ng's common Extension Pack",
   "description": "just for me",
   "version": "0.0.1",
+  "publisher": "dtcu0ng",
   "engines": {
     "vscode": "^1.71.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dtcu0ng/dtcu0ng-common-pack.git"
   },
   "categories": [
     "Extension Packs"
